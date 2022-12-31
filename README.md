@@ -918,16 +918,9 @@ text-indent:5.0pt'><span lang=KO style='font-family:"맑은 고딕",sans-serif'>
 lang=EN-US style='font-family:"맑은 고딕",sans-serif'>Time slice </span><span
 lang=KO style='font-family:"맑은 고딕",sans-serif'>계산 공식</span></p>
 
-<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
-
 <span lang=EN-US style='font-size:24.0pt;font-family:"Calibri",sans-serif'><br
 clear=all style='page-break-before:always'>
 </span>
-
-<p class=MsoNormal style='text-autospace:ideograph-numeric ideograph-other;
-word-break:keep-all'><span lang=EN-US style='font-size:24.0pt'>&nbsp;</span></p>
-
-<p class=MsoNormal><span lang=EN-US style='font-size:24.0pt'>&nbsp;</span></p>
 
 <h2><a name="_Toc119977368"><b><span lang=KO style='font-size:14.0pt;
 font-family:"맑은 고딕",sans-serif'>구현</span></b></a><b><span lang=KO
