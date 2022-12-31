@@ -264,13 +264,7 @@ alt="테이블이(가) 표시된 사진&#10;&#10;자동 생성된 설명"></span
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
 style='font-family:"맑은 고딕",sans-serif'>↑</span><span lang=EN-US
 style='font-family:"맑은 고딕",sans-serif'> FIFO </span><span lang=KO
-style='font-family:"맑은 고딕",sans-serif'>스케줄러의 동작 방식</span><a href="#_edn1"
-name="_ednref1" title=""><span class=MsoEndnoteReference><span lang=EN-US
-style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'><span
-class=MsoEndnoteReference><span lang=EN-US style='font-size:8.0pt;font-family:
-"맑은 고딕",sans-serif'>[i]</span></span></span></span></a><span lang=EN-US
-style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif;color:black;background:
-white'>(tistory, 2019)</span></p>
+style='font-family:"맑은 고딕",sans-serif'>스케줄러의 동작 방식</span></p>
 
 <p class=MsoNormal align=center style='text-align:center;text-indent:5.0pt'><span
 lang=EN-US>&nbsp;</span></p>
@@ -382,12 +376,7 @@ lang=EN-US><img width=560 height=202 id="그림 13" src="README.fld/image005.png
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
 style='font-family:"맑은 고딕",sans-serif'>↑ </span><span lang=EN-US
 style='font-family:"맑은 고딕",sans-serif'>RR </span><span lang=KO
-style='font-family:"맑은 고딕",sans-serif'>스케줄러의 동작 방식</span><a href="#_edn2"
-name="_ednref2" title=""><span class=MsoEndnoteReference><span lang=EN-US
-style='font-family:"맑은 고딕",sans-serif'><span class=MsoEndnoteReference><span
-lang=EN-US style='font-size:10.0pt;font-family:"맑은 고딕",sans-serif'>[ii]</span></span></span></span></a><span
-lang=EN-US style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif;color:black;
-background:white'>(velog, 2021)</span></p>
+style='font-family:"맑은 고딕",sans-serif'>스케줄러의 동작 방식</span></p>
 
 <p class=MsoNormal align=center style='text-align:center;text-indent:5.0pt'><span
 lang=EN-US>&nbsp;</span></p>
@@ -481,12 +470,7 @@ lang=EN-US><img width=640 height=294 id="그림 16" src="README.fld/image006.jpg
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
 style='font-family:"맑은 고딕",sans-serif'>↑ </span><span lang=EN-US
 style='font-family:"맑은 고딕",sans-serif'>MLQ </span><span lang=KO
-style='font-family:"맑은 고딕",sans-serif'>스케줄러의 구조 예시</span><a href="#_edn3"
-name="_ednref3" title=""><span class=MsoEndnoteReference><span lang=EN-US
-style='font-family:"맑은 고딕",sans-serif'><span class=MsoEndnoteReference><span
-lang=EN-US style='font-size:10.0pt;font-family:"맑은 고딕",sans-serif'>[iii]</span></span></span></span></a><span
-lang=EN-US style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif;color:black;
-background:white'>(blogspot, 2019)</span></p>
+style='font-family:"맑은 고딕",sans-serif'>스케줄러의 구조 예시</span></p>
 
 <p class=MsoNormal align=center style='text-align:center;text-indent:5.0pt'><span
 lang=EN-US style='font-family:"맑은 고딕",sans-serif'>&nbsp;</span></p>
@@ -599,12 +583,7 @@ alt="테이블이(가) 표시된 사진&#10;&#10;자동 생성된 설명"></span
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
 style='font-family:"맑은 고딕",sans-serif'>↑ </span><span lang=EN-US
 style='font-family:"맑은 고딕",sans-serif'>MLFQ </span><span lang=KO
-style='font-family:"맑은 고딕",sans-serif'>스케줄러의 동작 방식</span><a href="#_edn4"
-name="_ednref4" title=""><span class=MsoEndnoteReference><span lang=EN-US
-style='font-family:"맑은 고딕",sans-serif'><span class=MsoEndnoteReference><span
-lang=EN-US style='font-size:10.0pt;font-family:"맑은 고딕",sans-serif'>[iv]</span></span></span></span></a><span
-lang=EN-US style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>(blogspot,
-2019)</span></p>
+style='font-family:"맑은 고딕",sans-serif'>스케줄러의 동작 방식</span></p>
 
 <p class=MsoNormal align=center style='text-align:center;text-indent:5.0pt'><span
 lang=EN-US>&nbsp;</span></p>
@@ -769,12 +748,7 @@ alt="텍스트이(가) 표시된 사진&#10;&#10;자동 생성된 설명"></span
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
 style='font-family:"맑은 고딕",sans-serif'>↑ </span><span lang=EN-US
 style='font-family:"맑은 고딕",sans-serif'>CFS </span><span lang=KO
-style='font-family:"맑은 고딕",sans-serif'>스케줄러의 우선순위에 따른 가중치 테이블</span><a
-href="#_edn5" name="_ednref5" title=""><span class=MsoEndnoteReference><span
-lang=EN-US style='font-family:"맑은 고딕",sans-serif'><span
-class=MsoEndnoteReference><span lang=EN-US style='font-size:10.0pt;font-family:
-"맑은 고딕",sans-serif'>[v]</span></span></span></span></a><span lang=EN-US
-style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>(bootlin, n.d.)</span></p>
+style='font-family:"맑은 고딕",sans-serif'>스케줄러의 우선순위에 따른 가중치 테이블</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US>&nbsp;</span></p>
 
@@ -828,12 +802,7 @@ src="README.fld/image009.png" alt="텍스트이(가) 표시된 사진&#10;&#10;�
 <p class=MsoNormal align=center style='margin-left:5.0pt;text-align:center;
 text-indent:5.0pt'><span lang=KO style='font-family:"맑은 고딕",sans-serif'>↑</span><span
 lang=EN-US style='font-family:"맑은 고딕",sans-serif'> vruntime </span><span
-lang=KO style='font-family:"맑은 고딕",sans-serif'>계산 공식</span><a href="#_edn6"
-name="_ednref6" title=""><span class=MsoEndnoteReference><span lang=EN-US
-style='font-family:"맑은 고딕",sans-serif'><span class=MsoEndnoteReference><span
-lang=EN-US style='font-size:10.0pt;font-family:"맑은 고딕",sans-serif'>[vi]</span></span></span></span></a><span
-lang=EN-US style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>(egloos,
-2019)</span></p>
+lang=KO style='font-family:"맑은 고딕",sans-serif'>계산 공식</span></p>
 
 <p class=MsoNormal align=center style='margin-left:5.0pt;text-align:center;
 text-indent:5.0pt'><span lang=EN-US>&nbsp;</span></p>
@@ -923,11 +892,7 @@ lang=EN-US><img width=588 height=376 id="그림 18" src="README.fld/image010.gif
 lang=KO style='font-family:"맑은 고딕",sans-serif'>↑ </span><span lang=EN-US
 style='font-family:"맑은 고딕",sans-serif'>CFS </span><span lang=KO
 style='font-family:"맑은 고딕",sans-serif'>스케줄러의 </span><span lang=EN-US
-style='font-family:"맑은 고딕",sans-serif'>Red-Black Tree<a href="#_edn7"
-name="_ednref7" title=""><span class=MsoEndnoteReference><span
-class=MsoEndnoteReference><span lang=EN-US style='font-size:10.0pt;font-family:
-"맑은 고딕",sans-serif'>[vii]</span></span></span></a></span><span lang=EN-US
-style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>(uzoogom, 2010)</span></p>
+style='font-family:"맑은 고딕",sans-serif'>Red-Black Tree</p>
 
 <p class=MsoNormal align=center style='margin-left:5.0pt;text-align:center'><span
 lang=EN-US style='font-family:"맑은 고딕",sans-serif'>&nbsp;</span></p>
@@ -951,12 +916,7 @@ width=720 height=80 id="그림 40" src="README.fld/image011.png"></span></p>
 <p class=MsoNormal align=center style='margin-left:5.0pt;text-align:center;
 text-indent:5.0pt'><span lang=KO style='font-family:"맑은 고딕",sans-serif'>↑ </span><span
 lang=EN-US style='font-family:"맑은 고딕",sans-serif'>Time slice </span><span
-lang=KO style='font-family:"맑은 고딕",sans-serif'>계산 공식</span><a href="#_edn8"
-name="_ednref8" title=""><span class=MsoEndnoteReference><span lang=EN-US
-style='font-family:"맑은 고딕",sans-serif'><span class=MsoEndnoteReference><span
-lang=EN-US style='font-size:10.0pt;font-family:"맑은 고딕",sans-serif'>[viii]</span></span></span></span></a><span
-lang=EN-US style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>(egloos,
-2019)</span></p>
+lang=KO style='font-family:"맑은 고딕",sans-serif'>계산 공식</span></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
